@@ -19,7 +19,6 @@ This is a simple calculator web application designed with a neumorphism (Nemorph
 
 ## Screenshots
 
-![Calculator Screenshot]
 ![image](https://github.com/sayan7586/CalcGenius/assets/94905513/02766512-9d11-4c5c-a4fb-e6870fbc781a)
 
 ## Technologies Used
