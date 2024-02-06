@@ -1,6 +1,6 @@
 # CalcGenius Calculator
 
-This is a simple calculator web application designed with a neumorphism (Nemorphism) user interface. It supports basic arithmetic operations as well as some scientific functions.
+This is a simple calculator web application designed with a CalcaGenius user interface. It supports basic arithmetic operations as well as some scientific functions.
 
 ## Features
 
