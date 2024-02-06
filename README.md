@@ -10,12 +10,12 @@ This is a simple calculator web application designed with a neumorphism (Nemorph
 - Responsive layout
 
 ## Usage
-
-1. Clone the repository:
-
+1. Clone or download this repository.
 2. Open `index.html` in your web browser.
-
-3. Use the calculator to perform calculations.
+3. Use the buttons to perform calculations.
+4. Press `AC` to clear the input.
+5. Press `CE` to delete the last character.
+6. Press `=` to evaluate the expression.
 
 ## Screenshots
 
